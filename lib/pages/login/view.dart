@@ -28,7 +28,7 @@ class LoginPage extends GetView<LoginController> {
                   onPressed: () {
                     controller.onJumpCliced(url:"/regist");
                   },
-                  child: Text("jump to regist")),
+                  child: Text("jump to form")),
               ElevatedButton(
                   onPressed: () {
                     controller.onJumpCliced(url:"/style");
