@@ -1,0 +1,4 @@
+static const login = '/login';
+static const regist = '/regist';
+static const splash = '/splash';
+static const systemMain = '/system_main';

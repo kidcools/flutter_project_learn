@@ -1,0 +1,17 @@
+
+      GetPage(
+        name: RouteNames.login,
+        page: () => const LoginPage(),
+      ),
+      GetPage(
+        name: RouteNames.regist,
+        page: () => const RegistPage(),
+      ),
+      GetPage(
+        name: RouteNames.splash,
+        page: () => const SplashPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemMain,
+        page: () => const MainPage(),
+      ),
