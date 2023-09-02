@@ -10,7 +10,7 @@ void main()async{
   runApp(const MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget  {
   //初始化服
   const MyApp({super.key});
 

@@ -42,7 +42,16 @@ dependencies:
   package_info_plus: ^4.0.2
   shared_preferences: ^2.2.0
   dio: ^4.0.6
-
+  animate_do: 3.0.2
+  dropdown_button2: 2.1.4
+  uuid: ^3.0.1
+  flutter_meedu_videoplayer: ^4.2.22
+  video_player_web_hls: ^1.0.0+3
+  kumi_popup_window: ^2.0.1
+  extended_image: ^4.0.0
+  pager: ^0.0.6
+  modal_bottom_sheet: ^3.0.0-pre
+  #modal_bottom_sheet: 2.1.2
 dev_dependencies:
   flutter_test:
     sdk: flutter

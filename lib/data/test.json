@@ -1,0 +1,64 @@
+{
+  "clients":"-1",
+  "msgType":2,
+  "releaseTime":"待发布",
+  "publishMode":0,
+  "grades":"0",
+  "delFlag":0,
+  "title":"TestOnly-StationNews",
+  "content":"TestOnly-StationNews- 待审核",
+  "vipGrade":"99",
+  "activityId":"1526458649847894809",
+  "createdAt":"2023-08-28 18:11:57",
+  "sysStatus":2,
+  "approveResult":null,
+  "awayGroundUrl":"",
+  "stxx":5000,
+  "linkUrl":"",
+  "iconUrl":"4",
+  "id":"1695827288790143723",
+  "pushTime":"无推送",
+  "updatedAt":"2023-08-28 18:11:57",
+  "eventId":"-1",
+  "publishTime":"2000-01-01 00:00:00",
+  "updatedBy":"orchid01",
+  "pcUrl":"",
+  "devices":"0,1",
+  "pushStatus":1,
+  "awayGroundName":"",
+  "homeCourtIcon":"",
+  "venuesId":"-1",
+  "eventType":-1,
+  "sendMembers":"",
+  "sort":-1,
+  "pageId":"",
+  "h5Url":"",
+  "jumpTypeNew":2,
+  "pushFlag":0,
+  "pushTimeSave":null,
+  "createdBy":"orchid01",
+  "topStatus":0,
+  "homeCourtName":"",
+  "sendType":3,
+  "gameShowBeginTime":null,
+  "linkType":1,
+  "sportProject":"",
+  "category":1,
+  "venuesEnName":"",
+  "userInfo": {
+    "username": "kidcools",
+    "gender": 1
+  },
+  "userInfos": [
+    {
+      "username": "kidcools2",
+      "gender": 2
+    },{
+      "username": "kidcools3",
+      "gender": 3
+    }
+  ]
+}
+
+
+

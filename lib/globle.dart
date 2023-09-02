@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_meedu_videoplayer/meedu_player.dart';
 import 'package:flutter_project_learn/common/services/wp_http.dart';
 import 'package:flutter_project_learn/common/utils/Storage.dart';
 import 'package:get/get.dart';
@@ -17,6 +18,7 @@ class Global {
     });
     //初始化DIO
     Get.put<WPHttpService>(WPHttpService());
-
+    //初始化视频播放器
+    initMeeduPlayer();
   }
 }

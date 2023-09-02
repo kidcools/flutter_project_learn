@@ -42,4 +42,13 @@ class RouteNames {
   static const systemRegisterPin = '/system_register_pin';
   static const systemSplash = '/system_splash';
   static const systemUserAgreement = '/system_user_agreement';
+  static const fadeAppBar = '/fadeAppBar';
+  //动画测试
+  static const animateTest ='/animateTest';
+  static const meeduPlayerTest ='/meeduPlayer';
+  //NestedTabPage
+  static const nestedTabPage ='/nestedTabPage';
+  //responsivePage
+  static const responsivePage ='/responsivePage';
+  static const bottomSheetPage ='/bottomSheetPage';
 }
